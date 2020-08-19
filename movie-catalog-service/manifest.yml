@@ -1,0 +1,6 @@
+---
+applications:
+- name: spring-boot-microservices
+  instances: 1
+  memory: 800m
+  path : movie-catalog-service-0.0.1-SNAPSHOT.jar
