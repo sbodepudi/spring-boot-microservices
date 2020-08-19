@@ -1,0 +1,3 @@
+[submodule "movie-catalog-service"]
+	path = movie-catalog-service
+	url = https://github.com/sbodepudi/spring-boot-microservices.git
